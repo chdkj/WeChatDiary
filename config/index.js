@@ -12,7 +12,7 @@ const CONFIG = {
   APP_SECRET: "fd24f394a0120035f7bb48e187e40c28",
 
   // 微信公众号的模板ID
-  TEMPLATE_ID: "khdHVxYx_3VX04DxnE81dLP-nSD59JQmB1v3zTgBY30",
+  TEMPLATE_ID: "qyoQTr8pOPv9-EX4yMYFpY1Y8BGfSsWQ6FQScbfpTZ0",
 
   // 天行API的key
   TXApiKey: "a4c35e25dec34e04fcecdbd3866d00b9",
@@ -21,15 +21,15 @@ const CONFIG = {
   user: [
     {
       // 男(女)朋友的名字（或昵称或网名）
-      userName: "芃芃","楠"
+      userName: "芃芃"
       // 用户列表的`微信号`
-      userId: "o8v5Q5_vdjuv8qBAG-vV9sfPppRs", "o8v5Q56Lr95xZA0p6ZVc5RCqtJIg"
+      userId: "o8v5Q5_vdjuv8qBAG-vV9sfPppRs"
       // 星座
-      star: "狮子座","金牛座"
+      star: "狮子座"
       // 生日 - 格式：08-22
-      birthday: "08-01","05-18"
+      birthday: "08-01"
       // 城市 - 格式：支持省市县区
-      city: "金昌市","金昌市"
+      city: "金川区"
     },
   ],
 
