@@ -23,7 +23,7 @@ const CONFIG = {
       // 男(女)朋友的名字（或昵称或网名）
       userName: "芃芃"
       // 用户列表的`微信号`
-      userId:"o8v5Q5_vdjuv8qBAG-vV9sfPppRs".
+      userid:"o8v5Q5_vdjuv8qBAG-vV9sfPppRs",
       // 星座
       star: "狮子座"
       // 生日 - 格式：08-22
